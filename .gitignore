@@ -1,0 +1,18 @@
+# Visual Studio cache
+.vs/
+*.ipch
+*.db
+*.opendb
+*.VC.db
+*.TMP
+
+# Build artifacts
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pch
+*.pdb
+*.ilk
+
