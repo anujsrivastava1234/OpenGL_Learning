@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Lenovo\Documents\Visual Studio 2022\Projects\OpenGL\OpenGL_Pipeline_Practice\main.cpp(181,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGL_Pipeline_Practice.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2022\Projects\OpenGL\OpenGL_Pipeline_Practice\Debug\OpenGL_Pipeline_Practice.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

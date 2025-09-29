@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Visual Studio 2022\\Projects\\OpenGL\\OpenGL-Practice-Problems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70112749-C256-4451-B44C-97AC27BA4713}|OpenGL-Practice-Problems.vcxproj|C:\\Users\\Lenovo\\Documents\\Visual Studio 2022\\External Libs\\imgui\\imgui_impl_opengl3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70112749-C256-4451-B44C-97AC27BA4713}|OpenGL-Practice-Problems.vcxproj|C:\\Users\\Lenovo\\Documents\\Visual Studio 2022\\Projects\\OpenGL\\OpenGL-Practice-Problems\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70112749-C256-4451-B44C-97AC27BA4713}|OpenGL-Practice-Problems.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imgui_impl_opengl3.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Visual Studio 2022\\External Libs\\imgui\\imgui_impl_opengl3.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\External Libs\\imgui\\imgui_impl_opengl3.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Visual Studio 2022\\External Libs\\imgui\\imgui_impl_opengl3.cpp",
+              "RelativeToolTip": "..\\..\\..\\External Libs\\imgui\\imgui_impl_opengl3.cpp",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAiwLMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-29T19:08:05.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Visual Studio 2022\\Projects\\OpenGL\\OpenGL-Practice-Problems\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Visual Studio 2022\\Projects\\OpenGL\\OpenGL-Practice-Problems\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAOcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T11:35:03.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
